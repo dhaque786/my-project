@@ -1,0 +1,4 @@
+name = input("Danish Haque: ")
+
+print("Hello,", Danish Haque)
+print("Welcome to my first GitHub project!")
